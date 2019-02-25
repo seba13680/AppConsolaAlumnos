@@ -1,0 +1,7 @@
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\bin\Debug\alumnosNotas.exe.config
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\bin\Debug\alumnosNotas.exe
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\bin\Debug\alumnosNotas.pdb
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\obj\Debug\alumnosNotas.csprojAssemblyReference.cache
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\obj\Debug\alumnosNotas.csproj.CoreCompileInputs.cache
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\obj\Debug\alumnosNotas.exe
+C:\Users\Seba\source\repos\alumnosNotas\alumnosNotas\obj\Debug\alumnosNotas.pdb
